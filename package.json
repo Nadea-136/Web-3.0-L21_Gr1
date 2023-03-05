@@ -1,0 +1,19 @@
+{
+  "name": "glume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadea-136/Web-3.0-L21_Gr2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadea-136/Web-3.0-L21_Gr2/issues"
+  },
+  "homepage": "https://github.com/Nadea-136/Web-3.0-L21_Gr2#readme"
+}
